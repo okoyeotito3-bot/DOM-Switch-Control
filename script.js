@@ -1,7 +1,6 @@
 function off(){
-    document.getElementById("On").style.display = "none";
-    document.getElementById("Off").style.display = "block";}
+document.getElementById('demo').src='https://i.postimg.cc/KjK1wL3c/bulb-off.png';}
     
 function on(){
-    document.getElementById("Off").style.display = "none";
-    document.getElementById("On").style.display = "block";}
+  document.getElementById('demo').src= 'https://i.postimg.cc/6QyTynzr/bulb-on.png';
+    }
